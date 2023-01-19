@@ -1,0 +1,65 @@
+.lp{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.lpp,.lppp{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    border: 15px solid blue;
+    border-radius: 15px;
+    width:300px;
+    height: 400px;
+}
+.lppp{
+    width: 300px;
+    height: 150px;
+}
+h1{
+    text-align: center;
+    color: green;
+}
+.rt{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+}
+label{
+    margin-top: 15px;
+    font-size:large;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+}
+.er,.err{
+    margin-top: 10px;
+    border: none;
+    width: 250px;
+    border-radius:0%;
+    border-bottom: 2px green solid ;
+    background-color: white;
+    color: black;
+  
+}
+.err{
+    margin-top: 20px;
+}
+
+.ert{
+    border: none;
+    border-bottom: 1px solid white;
+    height: 40px;
+    width: 100px;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: white;
+    font-weight: bolder;
+    border-radius: 10px;
+}
+.rt{
+    margin-top: 20px;
+}

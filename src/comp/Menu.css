@@ -1,0 +1,93 @@
+table .menu{
+    border-collapse: collapse;
+    
+    
+}
+.menu{
+    margin: 0 auto;
+    width: 100%;
+}
+.op{
+    color: black;
+    font-weight: bold;
+}
+.menu th{
+    border-right: none;
+    border-bottom: none;
+    border-top:none;
+    color: white;
+    font-size: large;
+
+}
+button{
+    height: 20px;
+    width: 100px;
+    border-radius: 3px;
+    background-color: green;
+    border-color: green;
+    font-weight: bold;
+    color: white;
+}
+.men{
+    text-align: center;
+    width: 100%;
+    background-color: brown;
+
+}
+input{
+    background-color: green;
+    border: 2px solid greenyellow;
+    color:white;
+    font-weight: bold;
+    border-radius: 5px;
+
+}
+select{
+    background-color: red;
+    border: 2px solid orange;
+    color: white;
+    font-weight: bold;
+    width:100px;
+    height: 20px;
+}
+.in{
+    width: 150px;
+    height: 20px;
+    color: white;
+}
+.fors{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+.fors input,.fors button{
+    width: 70px;
+    height: 30px;
+    background-color: green;
+    color: white;
+    border: none;
+    margin-left: 20px;
+}
+
+.lo{
+    margin-right: 30px;
+}
+.gty{
+    background-color: blue;
+    width: auto;
+    padding-left: 10px;
+    margin-right: 10px;
+}
+.ops{
+    color: orange;
+    font-weight: 700;
+}
+.op{
+    color: white;
+}
+.o{
+    color: white;
+}

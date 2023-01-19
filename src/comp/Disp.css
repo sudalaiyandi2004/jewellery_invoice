@@ -1,0 +1,55 @@
+table .tryu{
+    border-collapse: collapse;
+    
+    
+    
+}
+.im{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.im img{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    margin-right: 50px;
+}
+.uy{
+    font-weight: bolder;
+    font-size:xx-large;
+}
+.tryu{
+    margin: 0 auto;
+    width: 100%;
+    overflow-y:scroll;
+    overflow-x: scroll;
+}
+.ui th{
+    border: 1px solid #ccc;
+    font-size:large;
+    color: blue;
+    border: none;
+    padding-bottom: 50px;   
+
+}
+td{
+    border: 2px solid #ccc;
+    color: blue;
+    font-size: large;
+    border: none;
+
+}
+.try{
+    text-align:left;
+    width: 30%;
+    margin-top: 50px;
+
+}
+.trry{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

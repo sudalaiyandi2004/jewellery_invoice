@@ -1,0 +1,52 @@
+[
+  {
+    "id": "0009",
+    "per": "12",
+    "item": "BRACLET",
+    "gram": "10.050",
+    "type": "GOLD",
+    "mc": "1000",
+    "total": "56248"
+  },
+  {
+    "id": "0018",
+    "per": "15",
+    "item": "RING",
+    "gram": "3.050"
+  },
+  {
+    "id": "0019",
+    "per": "12",
+    "item": "RING",
+    "gram": "4.120",
+    "total": 810
+  },
+  {
+    "id": "0020",
+    "per": "10",
+    "item": "CHAIN",
+    "gram": "16.050",
+    "total": 2210
+  },
+  {
+    "id": "0017",
+    "per": "10",
+    "item": "bangle",
+    "gram": "8.050",
+    "total": 45394
+  },
+  {
+    "id": "0016",
+    "per": "",
+    "item": "KOLUSU",
+    "gram": "55.800",
+    "total": 4807
+  },
+  {
+    "id": "0015",
+    "per": "",
+    "item": "KOLUSU",
+    "gram": "65.600",
+    "total": 5646
+  }
+]

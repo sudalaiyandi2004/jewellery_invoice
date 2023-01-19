@@ -1,0 +1,33 @@
+table .po{
+    border-collapse: collapse;
+    
+}
+.po{
+    margin: 0 auto;
+    width: 100%;
+}
+th{
+    border: 1px solid #ccc;
+    font-size: larger;
+    color: black;
+    
+}
+td{
+    border: none;
+    color: blue;
+    font-size: large;
+}
+button{
+    height: 40px;
+    width: 100px;
+    border-radius: 3px;
+    background-color: green;
+    border-color: green;
+    font-weight: bold;
+    color: #ccc;
+}
+.post{
+    text-align: center;
+    width: 100%;
+    background-color: brown;
+}

@@ -1,0 +1,79 @@
+
+table .lists{
+    border-collapse: collapse;
+    
+    
+    
+}
+.lists{
+    margin: 0 auto;
+    width: 100%;
+    overflow-y:scroll;
+    overflow-x: scroll;
+}
+th{
+    border: 1px solid #ccc;
+    font-size: larger;
+    color: black;
+    
+}
+td{
+    border: 2px solid #ccc;
+    color: blue;
+    font-size: large;
+}
+button{
+    height: 20px;
+    width: 50px;
+    border-radius: 3px;
+    background-color: green;
+    border-color: green;
+    font-weight: bold;
+    color: #ccc;
+}
+.lis{
+    text-align: center;
+    width: 100%;
+
+}
+.bt{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding-left: 20px;
+}
+.bto{
+    border: none;
+    background-color: white;
+    width: 150px;
+    border-bottom: 2px solid green;
+    border-radius: 0px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    color: black;
+    font-size: larger;
+
+}
+.oi{
+    margin-left: 20px;
+}
+.btoi{
+    color: white;
+    background-color: green;
+    width: 100px;
+    border: none;
+    height: 30px;
+    margin-left: 20px;
+}
+.bt button{
+    color: white;
+    background-color: green;
+    width: 100px;
+    border: none;
+    height: 30px;
+    margin-left: 20px;
+}
+.ip{
+    margin-top: 25px;
+}
